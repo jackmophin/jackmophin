@@ -32,10 +32,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jackmophin/jackmophin/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jackmophin&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
